@@ -59,8 +59,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/gabriellopes-fullstack/gabriellopes-fullstack/output/snake.svg" alt="Snake animation" />
 
 ###
