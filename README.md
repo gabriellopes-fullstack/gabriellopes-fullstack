@@ -1,12 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Olá!! Sou o Gabriel Lopes Dev Full Stack</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriellopes-fullstack&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura_dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriellopes-fullstack&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura_dark&hide_border=false" height="120" alt="languages graph"  />
 </div>
+
+###
+
+<h3 align="center">Algumas Linguagens que utilizo no dia a dia</h3>
 
 ###
 
@@ -35,5 +38,29 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
 </div>
+
+###
+
+<h5 align="center">Me siga nas redes sociais</h5>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/gabriel.l.rezende/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+  </a>
+  <a href="gabriellrezende@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-stack/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/gabriellopes-fullstack/gabriellopes-fullstack/output/snake.svg" alt="Snake animation" />
 
 ###
