@@ -1,4 +1,4 @@
-<h2 align="center">Olá!! Sou o Gabriel Lopes Dev Full Stack</h2>
+<h1 align="center">Olá!! Sou o Gabriel Lopes Dev Full Stack</h1>
 
 ###
 
@@ -48,6 +48,7 @@
 <div align="center">
   <a href="https://www.instagram.com/gabriel.l.rezende/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="25" alt="instagram logo"  />
+  </a>
   <a href="https://www.linkedin.com/in/gabriel-stack/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="25" alt="linkedin logo"  />
   </a>
