@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Algumas Linguagens que utilizo</h3>
+<h3 align="center">Algumas Linguagens que Utilizo</h3>
 
 ###
 
